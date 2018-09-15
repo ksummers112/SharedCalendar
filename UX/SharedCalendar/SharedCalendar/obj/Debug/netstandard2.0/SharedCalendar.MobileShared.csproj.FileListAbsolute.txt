@@ -1,0 +1,17 @@
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\bin\Debug\netstandard2.0\SharedCalendar.MobileShared.deps.json
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\bin\Debug\netstandard2.0\SharedCalendar.MobileShared.dll
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\bin\Debug\netstandard2.0\SharedCalendar.MobileShared.pdb
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\SharedCalendar.MobileShared.csprojAssemblyReference.cache
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\SharedCalendar.MobileShared.csproj.CoreCompileInputs.cache
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\SharedCalendar.MobileShared.AssemblyInfoInputs.cache
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\SharedCalendar.MobileShared.AssemblyInfo.cs
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\SharedCalendar.MobileShared.dll
+D:\Projects\Calendar\SharedCalendar\UX\SharedCalendar\SharedCalendar\obj\Debug\netstandard2.0\SharedCalendar.MobileShared.pdb
